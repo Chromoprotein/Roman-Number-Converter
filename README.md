@@ -1,2 +1,2 @@
-# Roman-Number-Validator
-FreeCodeCamp certification project, Roman number validator
+# Roman-Number-Converter
+FreeCodeCamp certification project, Roman number converter
